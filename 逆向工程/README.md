@@ -23,16 +23,25 @@ https://drive.google.com/file/d/1UVClWC5BUf_vlFIiMXw_Q6bgaybqmAus/view?usp=shari
 ```
 
 
-# [Discord課程聊天室](https://discord.com/invite/5EGg3Ttq)
+# [Discord課程聊天室](https://discord.com/invite/)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-https://discord.com/invite/5EGg3Ttq
+https://discord.com/invite/
 ```
 
 # 線上簽到(*務必簽到)
 ```
-兩次簽到開放時間與表單連結如下：
-(1)3月5日(六)  中午12:30-12:40   https://reurl.cc/MbVbN3
-(2)3月6日(日)  中午12:30-12:40   https://reurl.cc/12q2ZV
-(3)請學員*務必*上線填寫簽到表單，逾時不侯不補簽。
-(4)將以時間截記為主，簽到時間結束表單將自行關閉。
+簽到開放時間與表單連結如下：
+(1)8月21日(日)  下午13:30-13:40   https://reurl.cc/leRRZQ
+(2)請學員*務必*上線填寫簽到表單，逾時不侯不補簽。
+(3)將以時間截記為主，簽到時間結束表單將自行關閉。
+
+#  課程資訊與課程表
+## 採預錄影片學員可彈性安排時間
+## 影片開放與CTF解題時間為8月9日09:00~8月17日17:00
+|時間|主題|講師|
+|:----:|:----:|:------|
+|8月9日09:00~12:00|Linux C程式語言開發基礎|臺灣好厲駭學員LJP|
+|8月9日13:30~16:30|Linux執行檔分析|臺灣好厲駭學員LJP|
+|8月10日09:00~12:00|組合語言的解析(nasm)|臺灣好厲駭學員LJP|
+|8月10日13:30~14:30|逆向工程入門(objdump、Ghidra、GDB、radare2)|臺灣好厲駭學員LJP|
