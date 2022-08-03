@@ -82,3 +82,6 @@ https://meet.google.com/rcc-mvcx-pbz
 #  需完成之題目      
 ##### Reverse:
   - 0
+
+
+#  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
