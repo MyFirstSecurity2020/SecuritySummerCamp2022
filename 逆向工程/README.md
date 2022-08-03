@@ -23,6 +23,13 @@ https://drive.google.com/file/d/1UVClWC5BUf_vlFIiMXw_Q6bgaybqmAus/view?usp=shari
 ```
 
 
+# [課程問題提問表單]( https://forms.gle/ )
+```
+學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答
+https://forms.gle/
+```
+
+
 # [Discord課程聊天室](https://discord.com/invite/)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
@@ -54,10 +61,10 @@ https://discord.com/invite/
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|||
+|CH|https://youtu.be|
 
 
-## 8月21日(日) 14:00-16:00 張書銘講師直播
+## 8月21日(日) 14:00-16:00 張書銘講師線上QA
 https://meet.google.com/rcc-mvcx-pbz
 
 
@@ -70,3 +77,8 @@ https://meet.google.com/rcc-mvcx-pbz
 (5)證書於9月12日前郵寄掛號寄出。
 (6)本主辦單位保有最終修改、變更、活動解釋及取消之權利。 
 ```
+
+
+#  需完成之題目      
+##### Reverse:
+  - 0
