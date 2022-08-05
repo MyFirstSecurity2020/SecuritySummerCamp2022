@@ -7,6 +7,14 @@ CyberSecurity Summer Camp 2022 資訊安全暑訓營-程式安全：程式安全
 ✪主辦單位：教育部先進資通安全實務人才培育計畫推動辦公室、崑山科技大學、國立宜蘭大學、國立臺中工業高級中等學校
 ✪聯絡窗口：胡小姐 / E-mail：mhhu@ems.niu.edu.tw或洽FB粉絲頁(高中職生資安研習營)
 ```
+# 環境安裝影片
+```
+(1)環境安裝影片：https://youtu.be/Q9-ruKH032U
+(2)(未有VM軟體者首先安裝)Oracle VM VirtualBox下載連結：https://www.virtualbox.org/wiki/Downloads
+(3)image下載連結：https://drive.google.com/file/d/17Q6EAH0n8PKZIoajuCBkrJtT6Pezbkqp/view?usp=sharing
+VM帳號及密碼都是user
+```
+
 # 課程簡報下載
 https://drive.google.com/file/d/1Bvsz-yfGnxdIaSbFDeqprAy7aGpxpBIF/view?usp=sharing
 
