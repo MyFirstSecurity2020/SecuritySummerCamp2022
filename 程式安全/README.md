@@ -69,8 +69,22 @@ https://discord.com/invite/
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|CH|https://youtu.be|
-
+|(CH1)Program Structure + Security Option|https://youtu.be|
+|(CH2)Tools|https://youtu.be|
+|(CH3-1)Bof - Local Variable|https://youtu.be|
+|(CH3-2)Bof - Local Variable|https://youtu.be|
+|(CH4-1)Bof - ret2code|https://youtu.be|
+|(CH4-2)Bof - ret2code|https://youtu.be|
+|(CH5-1)Bof - ret2sc|https://youtu.be|
+|(CH5-2)Bof - ret2sc|https://youtu.be|
+|(CH6-1)Bof - ret2libc|https://youtu.be|
+|(CH6-2)Bof - ret2libc|https://youtu.be|
+|(CH7-1)ROP|https://youtu.be|
+|(CH7-2)ROP|https://youtu.be|
+|(CH8-1)Format String|https://youtu.be|
+|(CH8-2)Format String|https://youtu.be|
+|(CH8-3)Format Stringc|https://youtu.be|
+|(CH8-4)Format Stringc|https://youtu.be|
 
 ## 8月21日(日) 10:00-12:00 陳憶賢講師線上QA
 https://meet.google.com/dzj-iiom-ndv
