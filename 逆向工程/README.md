@@ -61,26 +61,26 @@ https://discord.gg/NhauEzMz
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|(CH1)簡介逆向工程|https://youtu.be|
-|(CH2-1)C程式語言|https://youtu.be|
-|(CH2-2)Lab helloc|https://youtu.be|
-|(CH3-1)執行檔格式|https://youtu.be|
-|(CH3-2)執行檔格式|https://youtu.be|
-|(CH3-3)Lab hardcoding|https://youtu.be|
-|(CH4-1)x86組合語言|https://youtu.be|
-|(CH4-2)x86組合語言|https://youtu.be|
-|(CH4-3)x86組合語言|https://youtu.be|
-|(CH4-4)x86組合語言|https://youtu.be|
-|(CH4-5)x86組合語言|https://youtu.be|
-|(CH4-6)x86組合語言|https://youtu.be|
-|(CH4-7)x86組合語言|https://youtu.be|
-|(CH4-8)x86組合語言|https://youtu.be|
-|(CH4-9)Lab broadcast|https://youtu.be|
-|(CH5-1)逆向工程實戰|https://youtu.be|
-|(CH5-2)逆向工程實戰|https://youtu.be|
-|(CH5-3)逆向工程實戰|https://youtu.be|
-|(CH5-4)逆向工程實戰|https://youtu.be|
-|(CH5-5)逆向工程實戰|https://youtu.be|
+|(CH1)簡介逆向工程|https://youtu.be/flg_BSfSb7U|
+|(CH2-1)C程式語言|https://youtu.be/chHPDHDssL8|
+|(CH2-2)Lab helloc|https://youtu.be/i0Il_pvylr0|
+|(CH3-1)執行檔格式|https://youtu.be/xcxXjzktc2I|
+|(CH3-2)執行檔格式|https://youtu.be/GkvepDvppp0|
+|(CH3-3)Lab hardcoding|https://youtu.be/nV1L1LL4yLw|
+|(CH4-1)x86組合語言|https://youtu.be/EuXgHNZZ5e0|
+|(CH4-2)x86組合語言|https://youtu.be/ocn5R0s5LrA|
+|(CH4-3)x86組合語言|https://youtu.be/Vh71ierP2yA|
+|(CH4-4)x86組合語言|https://youtu.be/0-CltdIOEvM|
+|(CH4-5)x86組合語言|https://youtu.be/48aGB4j158c|
+|(CH4-6)x86組合語言|https://youtu.be/Uxl4j3mcbAA|
+|(CH4-7)x86組合語言|https://youtu.be/TBPFPzD9H3A|
+|(CH4-8)x86組合語言|https://youtu.be/RG29wKfx9Yk|
+|(CH4-9)Lab broadcast|https://youtu.be/nUpIHQTNySg|
+|(CH5-1)逆向工程實戰|https://youtu.be/p1rLATUadXY|
+|(CH5-2)逆向工程實戰|https://youtu.be/eEDIABuvH2M|
+|(CH5-3)逆向工程實戰|https://youtu.be/VObSRlnpJrA|
+|(CH5-4)逆向工程實戰|https://youtu.be/S0unDgAbUio|
+|(CH5-5)逆向工程實戰|https://youtu.be/FysJp73scmA|
 
 
 ## 8月21日(日) 14:00-16:00 張書銘講師線上QA
