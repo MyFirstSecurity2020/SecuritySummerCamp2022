@@ -15,8 +15,8 @@ https://drive.google.com/file/d/1UVClWC5BUf_vlFIiMXw_Q6bgaybqmAus/view?usp=shari
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|2022-Reverse101-CTF|http://140.110.112.212|
-|2022-Reverse102-CTF|http://140.110.112.213|
+|2022-Reverse101-CTF|[平台連結](http://140.110.112.212)|
+|2022-Reverse102-CTF|[平台連結](http://140.110.112.213)|
 ```
 平台開放時間：8月9日09:00~8月17日17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
@@ -30,10 +30,10 @@ https://forms.gle/WBri5oMrDfz35Tw36
 ```
 
 
-# [Discord課程聊天室](https://discord.com/invite/)
+# [Discord課程聊天室](https://discord.gg/NhauEzMz)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-https://discord.com/invite/
+https://discord.gg/NhauEzMz
 ```
 
 
