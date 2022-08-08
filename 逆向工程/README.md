@@ -79,7 +79,7 @@ https://discord.com/invite/
 |(CH5-1)逆向工程實戰|https://youtu.be|
 |(CH5-2)逆向工程實戰|https://youtu.be|
 |(CH5-3)逆向工程實戰|https://youtu.be|
-|(CH5-4)逆向工程實戰)|https://youtu.be|
+|(CH5-4)逆向工程實戰|https://youtu.be|
 |(CH5-5)逆向工程實戰|https://youtu.be|
 
 
