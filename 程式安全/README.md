@@ -69,22 +69,22 @@ https://discord.gg/NhauEzMz
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|(CH1)Program Structure + Security Option|https://youtu.be|
-|(CH2)Tools|https://youtu.be|
-|(CH3-1)Bof - Local Variable|https://youtu.be|
-|(CH3-2)Bof - Local Variable|https://youtu.be|
-|(CH4-1)Bof - ret2code|https://youtu.be|
-|(CH4-2)Bof - ret2code|https://youtu.be|
-|(CH5-1)Bof - ret2sc|https://youtu.be|
-|(CH5-2)Bof - ret2sc|https://youtu.be|
-|(CH6-1)Bof - ret2libc|https://youtu.be|
-|(CH6-2)Bof - ret2libc|https://youtu.be|
-|(CH7-1)ROP|https://youtu.be|
-|(CH7-2)ROP|https://youtu.be|
-|(CH8-1)Format String|https://youtu.be|
-|(CH8-2)Format String|https://youtu.be|
-|(CH8-3)Format Stringc|https://youtu.be|
-|(CH8-4)Format Stringc|https://youtu.be|
+|(CH1)Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
+|(CH2)Tools|https://youtu.be/DZ8c81Gck2k|
+|(CH3-1)Bof - Local Variable|https://youtu.be/UmLr0_B6yqc|
+|(CH3-2)Bof - Local Variable|https://youtu.be/UqqqxYYeGXA|
+|(CH4-1)Bof - ret2code|https://youtu.be/Db_BQsv9MmA|
+|(CH4-2)Bof - ret2code|https://youtu.be/9wvb09WNwn0|
+|(CH5-1)Bof - ret2sc|https://youtu.be/VABqxI20ySE|
+|(CH5-2)Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I|
+|(CH6-1)Bof - ret2libc|hhttps://youtu.be/lR0-nQpX56c|
+|(CH6-2)Bof - ret2libc|https://youtu.be/H21YofSTazY|
+|(CH7-1)ROP|https://youtu.be/EsbUdf0_EY8|
+|(CH7-2)ROP|https://youtu.be/XsC5GxYGUmU|
+|(CH8-1)Format String|https://youtu.be/vfHs9kxh0_A|
+|(CH8-2)Format String|https://youtu.be/kgA2ZNpwic4|
+|(CH8-3)Format Stringc|https://youtu.be/-0dYnQtMjBU|
+|(CH8-4)Format Stringc|https://youtu.be/RGalgUT2VFM|
 
 ## 8月21日(日) 10:00-12:00 陳憶賢講師線上QA
 https://meet.google.com/dzj-iiom-ndv
