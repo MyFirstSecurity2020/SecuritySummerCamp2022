@@ -99,8 +99,28 @@ https://meet.google.com/rcc-mvcx-pbz
 
 
 #  需完成之題目      
-##### Reverse:
-  - 0
+```
+(1)完成11題題目。
+(2)解題截止時間：8/17(三) 17:00
+Lab:
+helloc
+hardcoding
+broadcast
+weird
 
+推薦解題:
+compileC
+assemblyx86
+
+選擇性解題:
+CSIE_strace
+EasyCTF_adder
+EasyCTF_ezreverse
+EasyCTF_hexable
+EasyCTF_hexedit
+EasyCTF_liar
+EasyCTF_LuckyGuess
+Reverse
+```
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
