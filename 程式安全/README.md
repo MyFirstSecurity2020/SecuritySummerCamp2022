@@ -38,10 +38,10 @@ https://forms.gle/Rh9vWpKBWNFzDCzH6
 ```
 
 
-# [Discord課程聊天室](https://discord.com/invite/)
+# [Discord課程聊天室](https://discord.gg/NhauEzMz)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-https://discord.com/invite/
+https://discord.gg/NhauEzMz
 ```
 
 
