@@ -102,8 +102,29 @@ https://meet.google.com/dzj-iiom-ndv
 
 
 #  需完成之題目      
-##### Pwn:
-  - 0
+(1)完成12題題目(包含8題指定題目，其餘4題任選)。
+(2)解題截止時間：8/17(三) 17:00
+
+(指定必解)01.張元 Pwn6 
+02.張元 Pwn7
+(指定必解)03.張元 Pwn1 
+04.pass
+(指定必解)05.張元 Pwn8 
+06.Angelboy Pwn1
+07.gohome
+08.registration
+(指定必解)09.Angelboy Pwn2 
+10.張元 Pwn9
+(指定必解)11.Angelboy Pwn3 
+12.oob3 Sean Pwn3
+(指定必解)13.張元 Pwn10 
+14.echo_server
+(指定必解)15.fmtstr 
+16.fmt-1
+(指定必解)17.fmt-2 
+18.fmt-3
+19.secret
+20.Angelboy Pwn7
 
 
 #  所有課程簡報影片等資訊非經取得本單位或講者授權，不得任意轉載或公開傳輸。
