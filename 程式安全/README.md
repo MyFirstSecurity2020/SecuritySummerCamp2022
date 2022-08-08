@@ -23,8 +23,8 @@ https://drive.google.com/file/d/1Bvsz-yfGnxdIaSbFDeqprAy7aGpxpBIF/view?usp=shari
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|2022-Pwn101-CTF|http://140.110.112.211|
-|2022-Pwn102-CTF|http://140.110.112.214|
+|2022-Pwn101-CTF|[平台連結](http://140.110.112.211)|
+|2022-Pwn102-CTF|[平台連結](http://140.110.112.214)|
 ```
 平台開放時間：8月11日09:00~8月17日17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
