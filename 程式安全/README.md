@@ -85,8 +85,8 @@ https://discord.gg/NhauEzMz
 |(CH7-2)ROP|https://youtu.be/XsC5GxYGUmU|
 |(CH8-1)Format String|https://youtu.be/vfHs9kxh0_A|
 |(CH8-2)Format String|https://youtu.be/kgA2ZNpwic4|
-|(CH8-3)Format Stringc|https://youtu.be/-0dYnQtMjBU|
-|(CH8-4)Format Stringc|https://youtu.be/RGalgUT2VFM|
+|(CH8-3)Format String|https://youtu.be/-0dYnQtMjBU|
+|(CH8-4)Format String|https://youtu.be/RGalgUT2VFM|
 
 ## 8月21日(日) 10:00-12:00 陳憶賢講師線上QA
 https://meet.google.com/dzj-iiom-ndv
