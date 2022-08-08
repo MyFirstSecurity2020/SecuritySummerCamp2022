@@ -77,7 +77,7 @@ https://discord.gg/NhauEzMz
 |(CH4-2)Bof - ret2code|https://youtu.be/9wvb09WNwn0|
 |(CH5-1)Bof - ret2sc|https://youtu.be/VABqxI20ySE|
 |(CH5-2)Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I|
-|(CH6-1)Bof - ret2libc|hhttps://youtu.be/lR0-nQpX56c|
+|(CH6-1)Bof - ret2libc|https://youtu.be/lR0-nQpX56c|
 |(CH6-2)Bof - ret2libc|https://youtu.be/H21YofSTazY|
 |(CH7-1)ROP|https://youtu.be/EsbUdf0_EY8|
 |(CH7-2)ROP|https://youtu.be/XsC5GxYGUmU|
