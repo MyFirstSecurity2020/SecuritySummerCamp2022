@@ -7,7 +7,7 @@
 
 ## 填寫問卷
 ```
-- 8/12請同學們填寫課程問卷，以利證書寄送發放。
+- 8/12請同學們填寫課程問卷，以利後續證書寄送發放。
 - [CyberSecurity Summer Camp 2022 資訊安全暑訓營：逆向工程-問卷](https://reurl.cc/jGkN12)
 - [CyberSecurity Summer Camp 2022 資訊安全暑訓營：程式安全-問卷](https://reurl.cc/vWerqL)
 ```
